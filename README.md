@@ -1,3 +1,12 @@
+#this is the python game script
+
+
+
+
+
+
+
+
 def draw_court_detailed(self, court: Court):
         """Draw detailed court with all lines and zones"""
         # Draw court base with realistic colors
